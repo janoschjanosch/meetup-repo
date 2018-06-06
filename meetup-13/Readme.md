@@ -15,6 +15,8 @@
 ### deployment
 - How do you deploy models?
 - How to deploy your R models within a docker container?
+- How to implement a logging component to monitor model performance?
+- Is it possible (and wise?) to integrate an R based model in a streaming related use case (e.g. scoring users of a certain website based features wich come with their session)
 
 ### quality assurance
 - How do you test code?
